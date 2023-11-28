@@ -1,0 +1,10 @@
+# Required API List for the APP
+1. Signup - with otp verification
+2. Signin - with otp verification
+3. Job List
+4. Search Job
+5. Applying job
+6. Applied Job List - user wise
+7. Notification - user wise
+
+
